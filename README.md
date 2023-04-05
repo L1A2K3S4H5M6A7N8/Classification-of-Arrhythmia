@@ -1,4 +1,4 @@
-# IBM-Project-23232-1659873226
+
 ## Classification of Arrhythmia by Using Deep Learning with 2-D ECG Spectral Image Representation
 
  * According to the World Health Organization (WHO), cardiovascular diseases (CVDs) are the number one cause of death today. Over 17.7 million people died from CVDs in the year 2017 all over the world which is about 31% of all deaths, and over 75% of these deaths occur in low and middle-income countries. 
